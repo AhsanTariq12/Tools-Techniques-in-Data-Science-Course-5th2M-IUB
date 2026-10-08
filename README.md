@@ -10,3 +10,5 @@
 | 6 | Data Preprocessing - Data Normalization & EDA | [lecture-06](lectures/Lecture6_Data-Normalization-and-EDA.docx) | Not Required |
 | 7 | Data Preprocessing - EDA and Its Types | [lecture-07](lectures/Lecture7_EDA-and-its-types.docx) | Not Required |
 | 8 | Data Preprocessing - Supervised Machine Learning | [lecture-08](lectures/Lecture8_Supervised-Machine-Learning.docx) | Not Required |
+| 9 | Linear Regression | [lecture-09](lectures/Lecture9_Linear-regression.docx) | Not Required |
+| 10 | Training, Testing, & Classification | [lecture-10](lectures/Lecture10_Training-Testing-Classification.docx) | Not Required |
