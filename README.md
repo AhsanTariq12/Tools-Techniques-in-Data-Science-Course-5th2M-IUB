@@ -12,3 +12,5 @@
 | 8 | Data Preprocessing - Supervised Machine Learning | [lecture-08](lectures/Lecture8_Supervised-Machine-Learning.docx) | Not Required |
 | 9 | Linear Regression | [lecture-09](lectures/Lecture9_Linear-regression.docx) | Not Required |
 | 10 | Training, Testing, & Classification | [lecture-10](lectures/Lecture10_Training-Testing-Classification.docx) | Not Required |
+| 11 | Evaluating & Improving Models | [lecture-11](lectures/Lecture11_Evaluating-and-Improving-Models.docx) | Not Required |
+| 12 | Machine learning with scikit-learn Chapter-1 | [lecture-12](lectures/Lecture12_DC-chapter1.pdf) | Not Required |
