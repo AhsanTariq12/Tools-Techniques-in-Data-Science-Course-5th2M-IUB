@@ -14,3 +14,12 @@
 | 10 | Training, Testing, & Classification | [lecture-10](lectures/Lecture10_Training-Testing-Classification.docx) | Not Required |
 | 11 | Evaluating & Improving Models | [lecture-11](lectures/Lecture11_Evaluating-and-Improving-Models.docx) | Not Required |
 | 12 | Machine learning with scikit-learn Chapter-1 | [lecture-12](lectures/Lecture12_DC-chapter1.pdf) | Not Required |
+| 12-16 |  Machine learning with scikit-learn course completion | [lecture-12-16](lectures/Lecture12-16-datacamp-course.docx) | Not Required |
+---
+  ### MIDS SYLLABUS ENDED 
+---
+
+| Lecture | Topic | Notes | Video |
+|---|---|---|---|
+| 17-18 | Introduction to Experimental Design | [lecture-17-18](lectures/Lecture17-18_Intro-to-Experiments.docx) | Not Required |
+| 19 | Assignments and a Research Study | [lecture-19](lectures/Lecture19_Experimental-Design.docx) | Not Required |
