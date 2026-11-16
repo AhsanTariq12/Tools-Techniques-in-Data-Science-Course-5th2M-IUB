@@ -23,3 +23,4 @@
 |---|---|---|---|
 | 17-18 | Introduction to Experimental Design | [lecture-17-18](lectures/Lecture17-18_Intro-to-Experiments.docx) | Not Required |
 | 19 | Assignments and a Research Study | [lecture-19](lectures/Lecture19_Experimental-Design.docx) | Not Required |
+| 20 | Software Engineering Principles in Python | [lecture-20A](lectures/Lecture20_Chapter1-SE-Principles-In-Python.pdf) --- [lecture-20B](lectures/Lecture20_Chapter2-SE-Principles-In-Python.pdf) | Not Required |
